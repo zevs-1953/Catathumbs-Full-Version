@@ -239,4 +239,4 @@ This repository serves as the official landing page for CataThumbs. The software
 **Get the most recent version of CataThumbs today!**
 
 ---
-**Last updated:** 2026-10-07 22:43:27 UTC
+**Last updated:** 2026-10-08 02:30:53 UTC
